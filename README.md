@@ -1,2 +1,5 @@
 # artwork-portfolio
-Portfolio webpage representing my music and digital art works
+
+This repo contains a portfolio website containing my creative work. Here's a screen capture:
+
+<img src="screen-capture.png">
